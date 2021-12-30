@@ -138,3 +138,10 @@ a {
     font-size: 2rem;
     background: gray;
 }
+footer {
+    font-weight: 300;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2rem;
+    background: #000;
+}
